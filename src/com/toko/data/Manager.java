@@ -10,7 +10,6 @@ import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.List;
 
-
 public class Manager {
 
     public static Gson gson = new GsonBuilder().setPrettyPrinting().create();

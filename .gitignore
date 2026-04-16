@@ -1,2 +1,7 @@
 *.lst
 requirments/*
+target/*
+*.class
+*.json
+.vscode/*
+out/*
